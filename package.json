@@ -13,5 +13,6 @@
 	},
 	"author": "Jake",
 	"description": "Project to learn backend of Javascript",
-	"keywords": [ "freeCodeCamp", "Learning", "Beginner" ]
+	"keywords": [ "freeCodeCamp", "Learning", "Beginner" ],
+	"license":"MIT"
 }
