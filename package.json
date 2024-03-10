@@ -10,5 +10,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"author": "Jake",
+	"description": "Project to learn backend of Javascript",
+	"keywords": [ "freeCodeCamp", "Learning", "Beginner" ]
 }
